@@ -437,7 +437,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) Aditya Ingale
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -463,7 +463,7 @@ SOFTWARE.
 ## 👨‍💻 Author
 
 **Your Name**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/YOUR_USERNAME) | 📧 your.email@example.com
+🔗 [LinkedIn](https://linkedin.com/in/ingaleaditya1411) | 🐙 [GitHub](https://github.com/Adityai1411) | 📧 ingaleaditya1411@gmail.com.com
 
 *Building AI tools that democratize financial analysis.*
 
@@ -484,5 +484,5 @@ SOFTWARE.
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ and lots of ☕</sub>
+  <sub>Built with lots of ☕</sub>
 </p>
