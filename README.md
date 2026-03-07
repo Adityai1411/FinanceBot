@@ -1,4 +1,3 @@
-markdown
 123456
 User Input (Stock Symbol)
 ↓
